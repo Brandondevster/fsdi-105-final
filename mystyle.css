@@ -1,0 +1,30 @@
+
+.bg{
+    background-color:  rgba(52, 6, 78, 0.678);
+    border:2px solid rgba(33, 2, 49, 0.678);
+    
+}
+.highlight {
+    border: 3px solid orangered;
+}
+#pets{
+    display:grid;
+    grid-template-columns: repeat(3,1fr); 
+}
+body{
+    color: rgb(209, 190, 16);
+}
+main{
+    background-color:  rgba(52, 6, 78, 0.678);
+}
+input{
+    background-color:rgba(250, 228, 32, 0.767)!important;
+    margin-top: 1rem;
+}
+header{
+    background-color:  rgba(52, 6, 78, 0.678);
+}
+footer{
+    background-color:  rgba(52, 6, 78, 0.678);
+    
+}
